@@ -1,0 +1,60 @@
+#include<stdio.h>
+void main()
+
+{
+    printf("Poojitha\n");
+
+
+// college
+
+    printf(" RGM CSE\n");
+    printf("Hello\n");
+printf("I'm learning some basic programs\n");
+
+//Add two numbers
+    int a = 10, b = 20;
+    int sum = a+b;
+    printf("%d\n",sum);
+
+//substract two numbers
+    int p = 100, q = 50;
+    int substract= p-q;
+    printf("%d\n",substract);
+
+//multiply two numbers
+
+int c = 6, d = 6;
+int multiply = c*d;
+printf("%d\n", multiply);
+
+//divide numbers
+int e = 10, f = 2;
+int divide = e/f;
+printf("%d\n",divide);
+
+//find remainder
+int g = 10, j = 2;
+int remainder = g%j;
+printf("%d\n",remainder);
+
+//average of three numbers
+int r = 5, w = 10, t = 15;
+int average = (q+w+e)/3;
+printf("%d\n",average);
+}
+
+----------------------------------------------------------
+Poojitha
+ RGM CSE
+Hello
+I'm learning some basic programs
+30
+50
+36
+5
+0
+23
+
+
+=== Code Exited With Errors ===    
+    
