@@ -1,0 +1,48 @@
+#include<stdio.h>
+void main()
+
+{
+    int b = 1;
+    while(b<=10)
+        {
+            printf("Poojitha B.Tech\n");
+            b++;
+        }
+
+
+// A multiplication table of 1 to 10
+       
+        int i = 1,x = 2;
+        while(i<=10)
+            {
+                printf("%d*%d = %d,\n",x,i,x*i);
+                i++;
+            }
+}
+--------------------------------------------------------------------------
+Poojitha B.Tech
+Poojitha B.Tech
+Poojitha B.Tech
+Poojitha B.Tech
+Poojitha B.Tech
+Poojitha B.Tech
+Poojitha B.Tech
+Poojitha B.Tech
+Poojitha B.Tech
+Poojitha B.Tech
+2*1 = 2,
+2*2 = 4,
+2*3 = 6,
+2*4 = 8,
+2*5 = 10,
+2*6 = 12,
+2*7 = 14,
+2*8 = 16,
+2*9 = 18,
+2*10 = 20,
+
+
+      
+    
+    
+
