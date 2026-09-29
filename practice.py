@@ -1,53 +1,34 @@
-print("Hello world")
+#Square of a number
 
-#Arithmetic operates
-#(Addition)
-a = 2026
-b = 2030
-c = a+b
-print(c)
+num = int(input("Enter a number: "))
+print("square", num*num)
 
-#Substraction
-x = 2579
-y = 9752
-z = x-y
-print(z)
+#cube of a number
+num = int(input("Enter a number: "))
+print("cube", num*num*num)
 
-#multiplication
-m = 2024
-n = 2025
-p = m*n
-print(p)
+#Largest of two numbers
+x = int(input("Enter a first number: "))
+y = int(input("Enter a second number"))
 
-#divison
-a = 1024
-b = 2
-c = a/b
-print(c)
+if x > y:
+  print("Largest", x)
+else:
+  print("Largest", y)
 
-#Floor division
-q = 1947
-w = 4
-e = q//w
-print(e)
-
-#Modulus
-z = 29
-x = 3
-c = z%x
-print(c)
-
-#Exponentiation
-m = 10
-n = 5
-b = m**n
-print(b)
------------------------------------------------------------------
-Hello world
-4056
--7173
-4098600
-512.0
-486
-2
-100000
+#Positive or Negative
+num = int(input("Enter a number: "))
+if num >= 0:
+  print("Positive")
+else:
+  print("Negative")
+-------------------------------------------------------------------------------------
+Enter a number: 29
+square 841
+Enter a number: 66
+cube 287496
+Enter a first number: 936697
+Enter a second number947864
+Largest 947864
+Enter a number: 10
+Positive
