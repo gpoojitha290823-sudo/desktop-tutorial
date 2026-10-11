@@ -14,7 +14,7 @@ I'm Poojitha, a passionate learner exploring the world of programming, software 
 🛠️ Technologies & Tools
 
 
-
+## MY PYTHON LEARNING JOURNEY
 📚 My Learning Journey
 🐍 Strengthening my Python fundamentals
 🧠 Improving logical thinking and problem-solving
@@ -34,7 +34,7 @@ I'm Poojitha, a passionate learner exploring the world of programming, software 
 🤖 Exploring the possibilities of AI
 🌱 Believing that every expert was once a beginner
 
-💌 Let's Connect!
+## 💌 Let's Connect!
 
 I'm always happy to learn, explore new ideas, and connect with fellow tech enthusiasts.
 
