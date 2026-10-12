@@ -59,6 +59,7 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 7 | String Methods | ✅ Completed |
 | 8 | String Concatenation | ✅ Completed |
 | 9 | F-Strings | ✅ Completed |
+| 10 | Workshop-1 | ✅ Completed |
 
 🚀 Consistently learning and improving my python skills!
 
