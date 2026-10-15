@@ -60,7 +60,8 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 8 | String Concatenation | ✅ Completed |
 | 9 | F-Strings | ✅ Completed |
 | 10 | Workshop-1 | ✅ Completed |
-| 11 | Logical Operators (and) | ✅ Completed
+| 11 | Logical Operators (and) | ✅ Completed |
+| 12 | Logical operators (not) | ✅ Completed |
 
 🚀 Consistently learning and improving my python skills!
 
