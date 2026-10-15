@@ -63,6 +63,7 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 11 | Logical Operators (and) | ✅ Completed |
 | 12 | Logical operators (not) | ✅ Completed |
 | 13 | Logical operators (or) | ✅ Completed |
+| 14 | Bitwise operators (&) | ✅ Completed |
 
 🚀 Consistently learning and improving my python skills!
 
