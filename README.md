@@ -62,6 +62,7 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 10 | Workshop-1 | ✅ Completed |
 | 11 | Logical Operators (and) | ✅ Completed |
 | 12 | Logical operators (not) | ✅ Completed |
+| 13 | Logical operators (or) | ✅ Completed |
 
 🚀 Consistently learning and improving my python skills!
 
