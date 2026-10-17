@@ -66,6 +66,7 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 14 | Bitwise operators (&) | ✅ Completed |
 | 15 | Bitwise operators (AND) | ✅ Completed |
 | 16 | Bitwise operators (~) | ✅ Completed |
+| 17 | Bitwise operators (<<), (>>) | ✅ Completed |
 
 
 🚀 Consistently learning and improving my python skills!
