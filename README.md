@@ -68,7 +68,7 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 16 | Bitwise operators (~) | ✅ Completed |
 | 17 | Bitwise operators (<<), (>>) | ✅ Completed |
 | 18 | Conditional statements | ✅ Completed |
-| 19 | Membership operators | 
+| 19 | Membership operators | ✅
 
 
 🚀 Consistently learning and improving my python skills!
