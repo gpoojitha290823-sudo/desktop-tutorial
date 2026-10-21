@@ -70,7 +70,7 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 18 | Conditional statements | ✅ Completed |
 | 19 | Membership operators | ✅ Completed | 
 | 20 | Identity operators | ✅ Completed |
-| 21 | if statements |
+| 21 | if statements | ✅
 
 
 🚀 Consistently learning and improving my python skills!
