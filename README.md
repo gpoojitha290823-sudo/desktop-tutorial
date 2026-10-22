@@ -71,7 +71,7 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 19 | Membership operators | ✅ Completed | 
 | 20 | Identity operators | ✅ Completed |
 | 21 | if statements | ✅ completed |
-| 22 | if else statements
+| 22 | if else statements | ✅
 
 
 🚀 Consistently learning and improving my python skills!
