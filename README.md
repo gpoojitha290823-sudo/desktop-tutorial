@@ -73,7 +73,7 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 21 | if statements | ✅ completed |
 | 22 | if else statements | ✅ Completed |
 | 23 | if-elif-else statements | ✅ Completed |
-| 24 | nested if_else 
+| 24 | nested if_else statements | ✅ Completed |
 
 🚀 Consistently learning and improving my python skills!
 
