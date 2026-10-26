@@ -74,7 +74,7 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 22 | if else statements | ✅ Completed |
 | 23 | if-elif-else statements | ✅ Completed |
 | 24 | nested if_else statements | ✅ Completed |
-| 25 | match_case systements | ✅ Completed |
+| 25 | match_case statements
 
 🚀 Consistently learning and improving my python skills!
 
