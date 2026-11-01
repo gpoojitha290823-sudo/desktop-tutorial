@@ -1,4 +1,4 @@
-ok## Hey there, I'm Poojitha! 👋💜
+## Hey there, I'm Poojitha! 👋💜
 🌱 Aspiring Software Engineer | Python Learner | AI Explorer
 
 Welcome to my little corner of GitHub! ✨
@@ -75,9 +75,9 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 23 | if-elif-else statements | ✅ Completed |
 | 24 | nested if_else statements | ✅ Completed |
 | 25 | shorthand if-else statements | ✅ Completed |
-| 25 | match_case statements | ✅ Completed |
-| 26 | for loops statements | ✅ Completed |
-| 27 | 
+| 26 | match_case statements | ✅ Completed |
+| 27 | for loops statements | ✅ Completed |
+| 28 | while loops statements |
 🚀 Consistently learning and improving my python skills!
 
 
