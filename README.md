@@ -3,7 +3,7 @@
 
 Welcome to my little corner of GitHub! ✨
 
-I'm Poojitha, a passionate learner exploring the world of programming, software development, and Artificial Intelligence. I'm currently learning Python, building my skills step by step, and discovering how technology can turn creative ideas into reality. 🚀
+I'm Poojitha, a passionate learner exploring the world of programming, software development, and Artificial intelligence. I'm currently learning Python, building my skills step by step, and discovering how technology can turn creative ideas into reality. 🚀
 
 🐍 Currently learning Python
 💻 Working towards becoming a Software Engineer
