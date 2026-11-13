@@ -1,5 +1,5 @@
 ## Hey there, I'm Poojitha! 👋💜
-🌱 Aspiring Software Engineer | Python Learner | AI Explorer
+🌱 Aspiring Software Engineer | Python learner | AI Explorer
 
 Welcome to my little corner of GitHub! ✨
 
